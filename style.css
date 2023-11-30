@@ -43,7 +43,7 @@ body{
 }
 
 @media(max-width: 750px){
-    .body{
+    body{
         flex-direction: column;
     }
 }
