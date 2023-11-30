@@ -4,7 +4,7 @@ let int = setInterval(getShrimpData, 300000)
 
 async function getShrimpData(){
     // Specify the API endpoint
-    const url = 'http://www.lecturas.somee.com/api/ShrimpData/latest';
+    const url = 'https://www.lecturas.somee.com/api/ShrimpData/latest';
 
     // Make the POST request using fetch
     fetch(url, {
