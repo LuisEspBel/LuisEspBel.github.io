@@ -17,7 +17,7 @@ body{
     font-family: 'Roboto Mono', sans-serif;
     display: flex;
     height: 100vh;
-    overflow: hidden;
+    overflow: auto;
     margin: 0;
 }
 
